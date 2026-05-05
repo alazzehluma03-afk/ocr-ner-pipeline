@@ -1,7 +1,4 @@
 # ocr-ner-pipeline
-تمام 🔥 هذا ملف **README.md احترافي (GitHub-ready)** لمشروعك OCR + NER + Streamlit
-
-انسخه كما هو وحطه في الريبو 👇
 
 ---
 
