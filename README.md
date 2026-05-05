@@ -102,7 +102,7 @@ cd ocr-ner-project
 
 ```bash
 python -m venv venv
-venv\Scripts\activate   # Windows
+source venv\Scripts\activate   # Windows
 ```
 
 ## 3. Install dependencies
